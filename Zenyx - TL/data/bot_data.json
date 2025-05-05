@@ -1,0 +1,97 @@
+{
+  "users": {
+    "7248367901": {
+      "id": 7248367901,
+      "username": "Jeremiasgui",
+      "first_name": "Jeremias",
+      "last_name": null,
+      "created_at": "2025-05-05T03:24:51+00:00",
+      "bots": [
+        "7805088342:AAGxnXZNaPEimga-pdMljqDMukF2x1JN2t0"
+      ],
+      "balance": 0.0,
+      "referrals": [],
+      "is_admin_vip": false,
+      "last_activity": "2025-05-05T03:24:51+00:00"
+    },
+    "7683986688": {
+      "id": 7683986688,
+      "username": "Mitnickyz",
+      "first_name": "\ud835\udde0\ud835\uddf6\ud835\ude01\ud835\uddfb\ud835\uddf6\ud835\uddf0\ud835\uddf8\ud835\ude07",
+      "last_name": null,
+      "created_at": "2025-05-05T03:40:47+00:00",
+      "bots": [
+        "8138208443:AAHimw9qFffpqJHR8JmG1MtDUJdgJaC7SSM",
+        "7324754805:AAEPZmClEOZ83OGKxmNVvmxZJG-xVmb2qOk"
+      ],
+      "balance": 0.0,
+      "referrals": [],
+      "is_admin_vip": false,
+      "last_activity": "2025-05-05T03:40:47+00:00"
+    }
+  },
+  "bots": {
+    "7439800872:AAHNAWkEZ5HqY8foHKr37IBZ1falDqqZ6bI": {
+      "token": "7439800872:AAHNAWkEZ5HqY8foHKr37IBZ1falDqqZ6bI",
+      "owner_id": 7248367901,
+      "username": "test_bot_qqZ6bI",
+      "config": {
+        "welcome_message": "",
+        "media_type": null,
+        "media_id": null,
+        "plans": [],
+        "pushinpay_token": "",
+        "linked_groups": []
+      },
+      "created_at": "2025-05-05T03:21:34+00:00",
+      "active": true
+    },
+    "7805088342:AAGxnXZNaPEimga-pdMljqDMukF2x1JN2t0": {
+      "token": "7805088342:AAGxnXZNaPEimga-pdMljqDMukF2x1JN2t0",
+      "owner_id": 7248367901,
+      "username": "test_bot_1JN2t0",
+      "config": {
+        "welcome_message": "",
+        "media_type": null,
+        "media_id": null,
+        "plans": [],
+        "pushinpay_token": "",
+        "linked_groups": []
+      },
+      "created_at": "2025-05-05T03:24:51+00:00",
+      "active": true
+    },
+    "8138208443:AAHimw9qFffpqJHR8JmG1MtDUJdgJaC7SSM": {
+      "token": "8138208443:AAHimw9qFffpqJHR8JmG1MtDUJdgJaC7SSM",
+      "owner_id": 7683986688,
+      "username": "ZenyxBRsbot",
+      "config": {
+        "welcome_message": "",
+        "media_type": null,
+        "media_id": null,
+        "plans": [],
+        "pushinpay_token": "",
+        "linked_groups": []
+      },
+      "created_at": "2025-05-05T03:40:47+00:00",
+      "active": true
+    },
+    "7324754805:AAEPZmClEOZ83OGKxmNVvmxZJG-xVmb2qOk": {
+      "token": "7324754805:AAEPZmClEOZ83OGKxmNVvmxZJG-xVmb2qOk",
+      "owner_id": 7683986688,
+      "username": "Pes2025BRbot",
+      "config": {
+        "welcome_message": "",
+        "media_type": null,
+        "media_id": null,
+        "plans": [],
+        "pushinpay_token": "",
+        "linked_groups": []
+      },
+      "created_at": "2025-05-05T03:52:48+00:00",
+      "active": true
+    }
+  },
+  "codes": {},
+  "states": {}
+}
